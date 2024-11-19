@@ -3,7 +3,7 @@
 |Rifki Muhammad Fadil|312310373|TI.23.A4|Pemograman Web 1|
 
 1. PHP Dasar
-  ![image]![1](https://github.com/user-attachments/assets/c29c4c0e-8001-4ce4-a0bd-128e0a0641fc)
+  ![1](https://github.com/user-attachments/assets/c29c4c0e-8001-4ce4-a0bd-128e0a0641fc)
 
 
 2. Variable PHP
@@ -11,25 +11,32 @@
 
 
 3. Predefine Variable $_GET
-   ![image]![3](https://github.com/user-attachments/assets/a4155dae-17b1-4fd4-8a2d-0859894e725c)
+   ![image](https://github.com/user-attachments/assets/dc7bfd7a-d2a2-406d-b8dd-2ba68679ad6f)
+
 
 4. Membuat Form Input
-   ![image]![4](https://github.com/user-attachments/assets/c384bb81-64bb-41ba-9499-097801c38573)
+   ![image](https://github.com/user-attachments/assets/958e06bb-c9cb-4081-a6fe-a73baf78d923)
+
 
 5. Operator
-  ![image![5](https://github.com/user-attachments/assets/f2464377-b69d-47d1-95a7-6ec5e19846f3)
+   ![image](https://github.com/user-attachments/assets/fb41b427-793e-46ec-bd06-675cb09d4145)
+
 
 6. Kondisi IF
-   ![image]![6](https://github.com/user-attachments/assets/2ef2ffe5-1ae1-4a09-9d1e-d98af12e8abf)
+   ![image](https://github.com/user-attachments/assets/a97f637f-3f25-4c11-ad76-092f992a3a0b)
+
 
 7. Kondisi Switch
-   ![image]![7](https://github.com/user-attachments/assets/668f9460-9021-41a4-a87c-ae7b68bc524a)
+   ![image](https://github.com/user-attachments/assets/22036d3b-d9bf-43ea-b436-7367284e82e3)
+
 
 8. Perulangan for
-   ![image]![8](https://github.com/user-attachments/assets/5fe42667-cc78-4aa7-8783-e159e65ecaa1)
+   ![image](https://github.com/user-attachments/assets/c77c8570-d0fa-43dd-b308-59f7188efbde)
+
 
 9. Perulangan while
-   ![image]![9](https://github.com/user-attachments/assets/fc7e89ac-aea4-475e-a2e5-ccb623063f24)
+   ![image](https://github.com/user-attachments/assets/798ab06b-e7c4-4157-874f-03b4e4c77df8)
+
 
     
     Pertanyaan dan Tugas
@@ -38,6 +45,10 @@
     nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
     umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
     berbeda-beda sesuai pilihan pekerjaan.
-   ![image] ![10](https://github.com/user-attachments/assets/341756d1-d9c3-4677-bf5e-9ea5f3e10ef6)
-   ![image]![11](https://github.com/user-attachments/assets/2c9b3dc6-94ca-4075-bc07-e98cc0c0147d)
-   ![image]![12](https://github.com/user-attachments/assets/0cfc0536-57b3-46c2-8eb3-8a0d0e7cfe94)
+   ![image](https://github.com/user-attachments/assets/1b795a02-5b9b-4b76-bf47-290425686acc)
+
+   ![image](https://github.com/user-attachments/assets/d55ddf43-2385-4e1e-91b1-d86914b6330b)
+
+
+   ![image]![image](https://github.com/user-attachments/assets/14316a3c-494d-4692-b7e8-1f5d5e157d39)
+
